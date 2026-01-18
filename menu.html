@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pilih Mapel</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="glass-box">
+        <h2>Holla, {{ nama }}! 👋</h2>
+        <p>Mau grinding mapel apa hari ini?</p>
+
+        <div class="grid-mapel">
+            {% for m in mapel %}
+            <a href="/start_quiz/{{ m }}" class="card-mapel">
+                <div style="font-size: 2em; margin-bottom: 5px;">📚</div>
+                <strong>{{ m }}</strong>
+                <div style="font-size: 0.8em; color: #aaa; margin-top: 5px;">Latihan HOTS</div>
+            </a>
+            {% endfor %}
+        </div>
+        
+        <br><br>
+        <a href="/logout" style="color: #ff416c; text-decoration: none; font-size: 0.9em;">← Ganti Akun</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Time</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <div class="glass-box">
+        <div style="display:flex; justify-content:space-between; font-size:0.9em; color:var(--neon-cyan); margin-bottom:15px; font-weight:bold;">
+            <span>Mapel: {{ mapel }}</span>
+            <span>Soal {{ index }} / {{ total }}</span>
+        </div>
+
+        <div style="width:100%; height:8px; background:rgba(255,255,255,0.1); border-radius:10px; overflow:hidden; margin-bottom:25px;">
+            <div style="width:{{ (index/total)*100 }}%; height:100%; background:linear-gradient(90deg, var(--neon-cyan), var(--neon-blue)); transition:0.5s;"></div>
+        </div>
+
+        <h3 class="question-text">{{ q.q }}</h3>
+
+        <div id="options-area">
+            {% for opt in q.options %}
+            <button class="option-btn" onclick="kirimJawaban(this, '{{ opt }}')">{{ opt }}</button>
+            {% endfor %}
+        </div>
+
+        <div id="feedback-area" class="feedback-box">
+            <strong id="status-text" style="font-size: 1.2em; display:block; margin-bottom:10px;"></strong>
+            
+            <div style="background:rgba(255,255,255,0.05); padding:15px; border-radius:10px; margin-bottom:15px;">
+                <strong style="color:var(--neon-gold);">💡 PEMBAHASAN:</strong><br>
+                <span id="rationale-text"></span>
+            </div>
+
+            <div style="text-align: right;">
+                <button id="btn-lanjut" onclick="nextQuestion()" class="btn-start" style="padding: 10px 30px;">Lanjut 👉</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let sudahJawab = false;
+
+        function kirimJawaban(btn, jawaban) {
+            if(sudahJawab) return; 
+            sudahJawab = true;
+
+            // Matikan semua tombol
+            $('.option-btn').prop('disabled', true).css('cursor', 'default').css('opacity', '0.6');
+
+            $.post("/submit_answer", {answer: jawaban}, function(data) {
+                let res = JSON.parse(data);
+                
+                // Efek Warna Tombol
+                if(res.is_correct) {
+                    $(btn).addClass('correct').css('opacity', '1');
+                    $('#status-text').html("✅ MANTAP! BENAR!").css('color', '#00b894'); // Hijau Neon
+                } else {
+                    $(btn).addClass('wrong').css('opacity', '1');
+                    $('#status-text').html("❌ YAH... SALAH").css('color', '#ff7675'); // Merah Soft
+                    
+                    // Kasih tahu mana yang benar (Border Hijau)
+                    $('.option-btn').each(function() {
+                        if($(this).text() === res.correct_answer) {
+                            $(this).addClass('correct').css('opacity', '1');
+                        }
+                    });
+                }
+
+                // Tampilkan Pembahasan
+                $('#rationale-text').text(res.rationale);
+                $('#feedback-area').slideDown();
+
+                // Ubah tombol Lanjut jika sudah selesai
+                if(res.finished) {
+                    $('#btn-lanjut').text("Lihat Rapor 🎓").attr('onclick', "window.location.href='/result'");
+                }
+            });
+        }
+
+        function nextQuestion() {
+            window.location.reload();
+        }
+    </script>
+</body>
+</html>

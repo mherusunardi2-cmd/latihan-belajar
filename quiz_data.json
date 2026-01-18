@@ -1,0 +1,1812 @@
+{
+    "Matematika": [
+        {
+            "id": 1,
+            "q": "Tentukan nilai x dari persamaan: 2x - 8 = -4",
+            "options": [
+                "4",
+                "7",
+                "1",
+                "2"
+            ],
+            "answer": "2",
+            "rationale": "2x = -4 + 8 -> 2x = 4 -> x = 4 / 2 -> x = 2"
+        },
+        {
+            "id": 2,
+            "q": "Tentukan nilai x dari persamaan: 8x - 6 = 26",
+            "options": [
+                "3",
+                "9",
+                "6",
+                "4"
+            ],
+            "answer": "4",
+            "rationale": "8x = 26 + 6 -> 8x = 32 -> x = 32 / 8 -> x = 4"
+        },
+        {
+            "id": 3,
+            "q": "Tentukan nilai x dari persamaan: 8x - 10 = 14",
+            "options": [
+                "2",
+                "8",
+                "3",
+                "5"
+            ],
+            "answer": "3",
+            "rationale": "8x = 14 + 10 -> 8x = 24 -> x = 24 / 8 -> x = 3"
+        },
+        {
+            "id": 4,
+            "q": "Tentukan nilai x dari persamaan: 2x - 9 = 11",
+            "options": [
+                "15",
+                "9",
+                "12",
+                "10"
+            ],
+            "answer": "10",
+            "rationale": "2x = 11 + 9 -> 2x = 20 -> x = 20 / 2 -> x = 10"
+        },
+        {
+            "id": 5,
+            "q": "Tentukan nilai x dari persamaan: 3x - 6 = 18",
+            "options": [
+                "10",
+                "8",
+                "7",
+                "13"
+            ],
+            "answer": "8",
+            "rationale": "3x = 18 + 6 -> 3x = 24 -> x = 24 / 3 -> x = 8"
+        },
+        {
+            "id": 6,
+            "q": "Tentukan nilai x dari persamaan: 9x - 16 = 29",
+            "options": [
+                "7",
+                "10",
+                "4",
+                "5"
+            ],
+            "answer": "5",
+            "rationale": "9x = 29 + 16 -> 9x = 45 -> x = 45 / 9 -> x = 5"
+        },
+        {
+            "id": 7,
+            "q": "Tentukan nilai x dari persamaan: 5x - 15 = 10",
+            "options": [
+                "10",
+                "5",
+                "4",
+                "7"
+            ],
+            "answer": "5",
+            "rationale": "5x = 10 + 15 -> 5x = 25 -> x = 25 / 5 -> x = 5"
+        },
+        {
+            "id": 8,
+            "q": "Tentukan nilai x dari persamaan: 5x - 6 = 4",
+            "options": [
+                "1",
+                "2",
+                "4",
+                "7"
+            ],
+            "answer": "2",
+            "rationale": "5x = 4 + 6 -> 5x = 10 -> x = 10 / 5 -> x = 2"
+        },
+        {
+            "id": 9,
+            "q": "Tentukan nilai x dari persamaan: 7x - 6 = 22",
+            "options": [
+                "6",
+                "9",
+                "4",
+                "3"
+            ],
+            "answer": "4",
+            "rationale": "7x = 22 + 6 -> 7x = 28 -> x = 28 / 7 -> x = 4"
+        },
+        {
+            "id": 10,
+            "q": "Tentukan nilai x dari persamaan: 4x - 17 = -1",
+            "options": [
+                "3",
+                "4",
+                "6",
+                "9"
+            ],
+            "answer": "4",
+            "rationale": "4x = -1 + 17 -> 4x = 16 -> x = 16 / 4 -> x = 4"
+        },
+        {
+            "id": 11,
+            "q": "Sepatu seharga Rp 350,000 didiskon 50%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 180,000",
+                "Rp 345,000",
+                "Rp 175,000",
+                "Rp 175,000"
+            ],
+            "answer": "Rp 175,000",
+            "rationale": "Diskon = 50% x 350,000 = 175,000. Harga akhir = 350,000 - 175,000 = 175,000."
+        },
+        {
+            "id": 12,
+            "q": "Sepatu seharga Rp 460,000 didiskon 25%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 115,000",
+                "Rp 455,000",
+                "Rp 350,000",
+                "Rp 345,000"
+            ],
+            "answer": "Rp 345,000",
+            "rationale": "Diskon = 25% x 460,000 = 115,000. Harga akhir = 460,000 - 115,000 = 345,000."
+        },
+        {
+            "id": 13,
+            "q": "Sepatu seharga Rp 120,000 didiskon 20%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 101,000",
+                "Rp 24,000",
+                "Rp 115,000",
+                "Rp 96,000"
+            ],
+            "answer": "Rp 96,000",
+            "rationale": "Diskon = 20% x 120,000 = 24,000. Harga akhir = 120,000 - 24,000 = 96,000."
+        },
+        {
+            "id": 14,
+            "q": "Sepatu seharga Rp 420,000 didiskon 25%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 415,000",
+                "Rp 105,000",
+                "Rp 315,000",
+                "Rp 320,000"
+            ],
+            "answer": "Rp 315,000",
+            "rationale": "Diskon = 25% x 420,000 = 105,000. Harga akhir = 420,000 - 105,000 = 315,000."
+        },
+        {
+            "id": 15,
+            "q": "Sepatu seharga Rp 100,000 didiskon 10%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 95,000",
+                "Rp 90,000",
+                "Rp 95,000",
+                "Rp 10,000"
+            ],
+            "answer": "Rp 90,000",
+            "rationale": "Diskon = 10% x 100,000 = 10,000. Harga akhir = 100,000 - 10,000 = 90,000."
+        },
+        {
+            "id": 16,
+            "q": "Sepatu seharga Rp 270,000 didiskon 10%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 265,000",
+                "Rp 243,000",
+                "Rp 248,000",
+                "Rp 27,000"
+            ],
+            "answer": "Rp 243,000",
+            "rationale": "Diskon = 10% x 270,000 = 27,000. Harga akhir = 270,000 - 27,000 = 243,000."
+        },
+        {
+            "id": 17,
+            "q": "Sepatu seharga Rp 300,000 didiskon 50%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 295,000",
+                "Rp 150,000",
+                "Rp 150,000",
+                "Rp 155,000"
+            ],
+            "answer": "Rp 150,000",
+            "rationale": "Diskon = 50% x 300,000 = 150,000. Harga akhir = 300,000 - 150,000 = 150,000."
+        },
+        {
+            "id": 18,
+            "q": "Sepatu seharga Rp 490,000 didiskon 50%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 245,000",
+                "Rp 250,000",
+                "Rp 245,000",
+                "Rp 485,000"
+            ],
+            "answer": "Rp 245,000",
+            "rationale": "Diskon = 50% x 490,000 = 245,000. Harga akhir = 490,000 - 245,000 = 245,000."
+        },
+        {
+            "id": 19,
+            "q": "Sepatu seharga Rp 290,000 didiskon 10%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 29,000",
+                "Rp 266,000",
+                "Rp 261,000",
+                "Rp 285,000"
+            ],
+            "answer": "Rp 261,000",
+            "rationale": "Diskon = 10% x 290,000 = 29,000. Harga akhir = 290,000 - 29,000 = 261,000."
+        },
+        {
+            "id": 20,
+            "q": "Sepatu seharga Rp 230,000 didiskon 10%. Berapa harga yang harus dibayar?",
+            "options": [
+                "Rp 212,000",
+                "Rp 207,000",
+                "Rp 23,000",
+                "Rp 225,000"
+            ],
+            "answer": "Rp 207,000",
+            "rationale": "Diskon = 10% x 230,000 = 23,000. Harga akhir = 230,000 - 23,000 = 207,000."
+        },
+        {
+            "id": 21,
+            "q": "Lanjutkan deret berikut: 2, 7, 12, 17, 22, ...",
+            "options": [
+                "25",
+                "27",
+                "32",
+                "28"
+            ],
+            "answer": "27",
+            "rationale": "Pola deret adalah ditambah 5. Jadi 22 + 5 = 27."
+        },
+        {
+            "id": 22,
+            "q": "Lanjutkan deret berikut: 9, 11, 13, 15, 17, ...",
+            "options": [
+                "17",
+                "20",
+                "24",
+                "19"
+            ],
+            "answer": "19",
+            "rationale": "Pola deret adalah ditambah 2. Jadi 17 + 2 = 19."
+        },
+        {
+            "id": 23,
+            "q": "Lanjutkan deret berikut: 2, 6, 10, 14, 18, ...",
+            "options": [
+                "27",
+                "20",
+                "23",
+                "22"
+            ],
+            "answer": "22",
+            "rationale": "Pola deret adalah ditambah 4. Jadi 18 + 4 = 22."
+        },
+        {
+            "id": 24,
+            "q": "Lanjutkan deret berikut: 3, 6, 9, 12, 15, ...",
+            "options": [
+                "23",
+                "18",
+                "19",
+                "16"
+            ],
+            "answer": "18",
+            "rationale": "Pola deret adalah ditambah 3. Jadi 15 + 3 = 18."
+        },
+        {
+            "id": 25,
+            "q": "Lanjutkan deret berikut: 3, 6, 9, 12, 15, ...",
+            "options": [
+                "18",
+                "19",
+                "23",
+                "16"
+            ],
+            "answer": "18",
+            "rationale": "Pola deret adalah ditambah 3. Jadi 15 + 3 = 18."
+        },
+        {
+            "id": 26,
+            "q": "Lanjutkan deret berikut: 5, 8, 11, 14, 17, ...",
+            "options": [
+                "20",
+                "21",
+                "18",
+                "25"
+            ],
+            "answer": "20",
+            "rationale": "Pola deret adalah ditambah 3. Jadi 17 + 3 = 20."
+        },
+        {
+            "id": 27,
+            "q": "Lanjutkan deret berikut: 5, 9, 13, 17, 21, ...",
+            "options": [
+                "23",
+                "26",
+                "30",
+                "25"
+            ],
+            "answer": "25",
+            "rationale": "Pola deret adalah ditambah 4. Jadi 21 + 4 = 25."
+        },
+        {
+            "id": 28,
+            "q": "Lanjutkan deret berikut: 7, 10, 13, 16, 19, ...",
+            "options": [
+                "23",
+                "27",
+                "22",
+                "20"
+            ],
+            "answer": "22",
+            "rationale": "Pola deret adalah ditambah 3. Jadi 19 + 3 = 22."
+        },
+        {
+            "id": 29,
+            "q": "Lanjutkan deret berikut: 10, 13, 16, 19, 22, ...",
+            "options": [
+                "30",
+                "26",
+                "23",
+                "25"
+            ],
+            "answer": "25",
+            "rationale": "Pola deret adalah ditambah 3. Jadi 22 + 3 = 25."
+        },
+        {
+            "id": 30,
+            "q": "Lanjutkan deret berikut: 9, 13, 17, 21, 25, ...",
+            "options": [
+                "29",
+                "34",
+                "30",
+                "27"
+            ],
+            "answer": "29",
+            "rationale": "Pola deret adalah ditambah 4. Jadi 25 + 4 = 29."
+        }
+    ],
+    "IPA": [
+        {
+            "q": "Petani menyilangkan mangga manis (Mm) dengan mangga asam (mm). Persentase mangga manis yang dihasilkan adalah...",
+            "options": [
+                "50%",
+                "25%",
+                "75%",
+                "100%"
+            ],
+            "answer": "50%",
+            "rationale": "Mm x mm menghasilkan anak Mm (manis) dan mm (asam) dengan perbandingan 1:1 atau 50%.",
+            "id": 1
+        },
+        {
+            "q": "CFC dilarang digunakan karena berbahaya bagi lingkungan. Dampak utama CFC adalah...",
+            "options": [
+                "Menipiskan lapisan ozon",
+                "Menyebabkan hujan asam",
+                "Memicu gempa bumi",
+                "Mencemari air tanah"
+            ],
+            "answer": "Menipiskan lapisan ozon",
+            "rationale": "CFC bereaksi dengan Ozon (O3) di stratosfer dan memecahnya, membuat perlindungan bumi dari UV berkurang.",
+            "id": 2
+        },
+        {
+            "q": "Benda diam akan tetap diam, dan benda bergerak akan tetap bergerak lurus beraturan jika tidak ada gaya yang bekerja. Ini adalah bunyi...",
+            "options": [
+                "Hukum Newton I",
+                "Hukum Newton II",
+                "Hukum Newton III",
+                "Hukum Archimedes"
+            ],
+            "answer": "Hukum Newton I",
+            "rationale": "Hukum Newton I dikenal sebagai hukum kelembaman (inersia).",
+            "id": 3
+        },
+        {
+            "q": "Pada proses fotosintesis, oksigen dihasilkan dari pemecahan...",
+            "options": [
+                "Air (H2O)",
+                "Karbondioksida (CO2)",
+                "Glukosa",
+                "Klorofil"
+            ],
+            "answer": "Air (H2O)",
+            "rationale": "Oksigen dihasilkan pada reaksi terang melalui fotolisis air (pemecahan H2O oleh cahaya).",
+            "id": 4
+        },
+        {
+            "q": "Bagian otak yang berfungsi sebagai pusat keseimbangan tubuh adalah...",
+            "options": [
+                "Otak Kecil (Cerebellum)",
+                "Otak Besar",
+                "Sumsum Tulang Belakang",
+                "Batang Otak"
+            ],
+            "answer": "Otak Kecil (Cerebellum)",
+            "rationale": "Cerebellum berfungsi mengatur koordinasi otot dan keseimbangan tubuh.",
+            "id": 5
+        },
+        {
+            "q": "Jamur tidak dimasukkan dalam kingdom Plantae (Tumbuhan) karena...",
+            "options": [
+                "Tidak memiliki klorofil",
+                "Tidak memiliki dinding sel",
+                "Bergerak aktif",
+                "Berkembang biak dengan biji"
+            ],
+            "answer": "Tidak memiliki klorofil",
+            "rationale": "Syarat utama Plantae adalah autotrof (punya klorofil). Jamur heterotrof (tidak bisa buat makan sendiri).",
+            "id": 6
+        },
+        {
+            "q": "Perhatikan rantai makanan: Padi -> Tikus -> Ular -> Elang. Jika populasi ular punah akibat perburuan, maka...",
+            "options": [
+                "Populasi tikus meningkat pesat",
+                "Populasi elang meningkat",
+                "Padi semakin subur",
+                "Tikus ikut punah"
+            ],
+            "answer": "Populasi tikus meningkat pesat",
+            "rationale": "Ular adalah predator tikus. Jika predator hilang, mangsa (tikus) akan berkembang biak tak terkendali.",
+            "id": 7
+        },
+        {
+            "q": "Alat optik yang menggunakan prinsip pembiasan cahaya oleh lensa cembung untuk melihat benda kecil adalah...",
+            "options": [
+                "Mikroskop",
+                "Periskop",
+                "Teleskop Pantul",
+                "Cermin Datar"
+            ],
+            "answer": "Mikroskop",
+            "rationale": "Mikroskop menggunakan kombinasi lensa cembung (okuler dan objektif) untuk memperbesar bayangan.",
+            "id": 8
+        },
+        {
+            "q": "Bahan kimia pada rokok yang bersifat adiktif (membuat kecanduan) adalah...",
+            "options": [
+                "Nikotin",
+                "Tar",
+                "Karbon Monoksida",
+                "Kafein"
+            ],
+            "answer": "Nikotin",
+            "rationale": "Nikotin adalah zat psikoaktif yang memicu ketergantungan. Tar penyebab kanker, CO racun darah.",
+            "id": 9
+        },
+        {
+            "q": "Gerhana matahari total terjadi ketika posisi bulan berada di...",
+            "options": [
+                "Antara Matahari dan Bumi",
+                "Di belakang Bumi",
+                "Tegak lurus dengan Bumi",
+                "Samping kanan Bumi"
+            ],
+            "answer": "Antara Matahari dan Bumi",
+            "rationale": "Posisi Matahari - Bulan - Bumi dalam satu garis lurus menyebabkan bayangan bulan menutupi bumi.",
+            "id": 10
+        },
+        {
+            "q": "Petani menyilangkan mangga manis (Mm) dengan mangga asam (mm). Persentase mangga manis yang dihasilkan adalah...",
+            "options": [
+                "50%",
+                "25%",
+                "75%",
+                "100%"
+            ],
+            "answer": "50%",
+            "rationale": "Mm x mm menghasilkan anak Mm (manis) dan mm (asam) dengan perbandingan 1:1 atau 50%.",
+            "id": 11
+        },
+        {
+            "q": "CFC dilarang digunakan karena berbahaya bagi lingkungan. Dampak utama CFC adalah...",
+            "options": [
+                "Menipiskan lapisan ozon",
+                "Menyebabkan hujan asam",
+                "Memicu gempa bumi",
+                "Mencemari air tanah"
+            ],
+            "answer": "Menipiskan lapisan ozon",
+            "rationale": "CFC bereaksi dengan Ozon (O3) di stratosfer dan memecahnya, membuat perlindungan bumi dari UV berkurang.",
+            "id": 12
+        },
+        {
+            "q": "Benda diam akan tetap diam, dan benda bergerak akan tetap bergerak lurus beraturan jika tidak ada gaya yang bekerja. Ini adalah bunyi...",
+            "options": [
+                "Hukum Newton I",
+                "Hukum Newton II",
+                "Hukum Newton III",
+                "Hukum Archimedes"
+            ],
+            "answer": "Hukum Newton I",
+            "rationale": "Hukum Newton I dikenal sebagai hukum kelembaman (inersia).",
+            "id": 13
+        },
+        {
+            "q": "Pada proses fotosintesis, oksigen dihasilkan dari pemecahan...",
+            "options": [
+                "Air (H2O)",
+                "Karbondioksida (CO2)",
+                "Glukosa",
+                "Klorofil"
+            ],
+            "answer": "Air (H2O)",
+            "rationale": "Oksigen dihasilkan pada reaksi terang melalui fotolisis air (pemecahan H2O oleh cahaya).",
+            "id": 14
+        },
+        {
+            "q": "Bagian otak yang berfungsi sebagai pusat keseimbangan tubuh adalah...",
+            "options": [
+                "Otak Kecil (Cerebellum)",
+                "Otak Besar",
+                "Sumsum Tulang Belakang",
+                "Batang Otak"
+            ],
+            "answer": "Otak Kecil (Cerebellum)",
+            "rationale": "Cerebellum berfungsi mengatur koordinasi otot dan keseimbangan tubuh.",
+            "id": 15
+        },
+        {
+            "q": "Jamur tidak dimasukkan dalam kingdom Plantae (Tumbuhan) karena...",
+            "options": [
+                "Tidak memiliki klorofil",
+                "Tidak memiliki dinding sel",
+                "Bergerak aktif",
+                "Berkembang biak dengan biji"
+            ],
+            "answer": "Tidak memiliki klorofil",
+            "rationale": "Syarat utama Plantae adalah autotrof (punya klorofil). Jamur heterotrof (tidak bisa buat makan sendiri).",
+            "id": 16
+        },
+        {
+            "q": "Perhatikan rantai makanan: Padi -> Tikus -> Ular -> Elang. Jika populasi ular punah akibat perburuan, maka...",
+            "options": [
+                "Populasi tikus meningkat pesat",
+                "Populasi elang meningkat",
+                "Padi semakin subur",
+                "Tikus ikut punah"
+            ],
+            "answer": "Populasi tikus meningkat pesat",
+            "rationale": "Ular adalah predator tikus. Jika predator hilang, mangsa (tikus) akan berkembang biak tak terkendali.",
+            "id": 17
+        },
+        {
+            "q": "Alat optik yang menggunakan prinsip pembiasan cahaya oleh lensa cembung untuk melihat benda kecil adalah...",
+            "options": [
+                "Mikroskop",
+                "Periskop",
+                "Teleskop Pantul",
+                "Cermin Datar"
+            ],
+            "answer": "Mikroskop",
+            "rationale": "Mikroskop menggunakan kombinasi lensa cembung (okuler dan objektif) untuk memperbesar bayangan.",
+            "id": 18
+        },
+        {
+            "q": "Bahan kimia pada rokok yang bersifat adiktif (membuat kecanduan) adalah...",
+            "options": [
+                "Nikotin",
+                "Tar",
+                "Karbon Monoksida",
+                "Kafein"
+            ],
+            "answer": "Nikotin",
+            "rationale": "Nikotin adalah zat psikoaktif yang memicu ketergantungan. Tar penyebab kanker, CO racun darah.",
+            "id": 19
+        },
+        {
+            "q": "Gerhana matahari total terjadi ketika posisi bulan berada di...",
+            "options": [
+                "Antara Matahari dan Bumi",
+                "Di belakang Bumi",
+                "Tegak lurus dengan Bumi",
+                "Samping kanan Bumi"
+            ],
+            "answer": "Antara Matahari dan Bumi",
+            "rationale": "Posisi Matahari - Bulan - Bumi dalam satu garis lurus menyebabkan bayangan bulan menutupi bumi.",
+            "id": 20
+        },
+        {
+            "q": "Petani menyilangkan mangga manis (Mm) dengan mangga asam (mm). Persentase mangga manis yang dihasilkan adalah...",
+            "options": [
+                "50%",
+                "25%",
+                "75%",
+                "100%"
+            ],
+            "answer": "50%",
+            "rationale": "Mm x mm menghasilkan anak Mm (manis) dan mm (asam) dengan perbandingan 1:1 atau 50%.",
+            "id": 21
+        },
+        {
+            "q": "CFC dilarang digunakan karena berbahaya bagi lingkungan. Dampak utama CFC adalah...",
+            "options": [
+                "Menipiskan lapisan ozon",
+                "Menyebabkan hujan asam",
+                "Memicu gempa bumi",
+                "Mencemari air tanah"
+            ],
+            "answer": "Menipiskan lapisan ozon",
+            "rationale": "CFC bereaksi dengan Ozon (O3) di stratosfer dan memecahnya, membuat perlindungan bumi dari UV berkurang.",
+            "id": 22
+        },
+        {
+            "q": "Benda diam akan tetap diam, dan benda bergerak akan tetap bergerak lurus beraturan jika tidak ada gaya yang bekerja. Ini adalah bunyi...",
+            "options": [
+                "Hukum Newton I",
+                "Hukum Newton II",
+                "Hukum Newton III",
+                "Hukum Archimedes"
+            ],
+            "answer": "Hukum Newton I",
+            "rationale": "Hukum Newton I dikenal sebagai hukum kelembaman (inersia).",
+            "id": 23
+        },
+        {
+            "q": "Pada proses fotosintesis, oksigen dihasilkan dari pemecahan...",
+            "options": [
+                "Air (H2O)",
+                "Karbondioksida (CO2)",
+                "Glukosa",
+                "Klorofil"
+            ],
+            "answer": "Air (H2O)",
+            "rationale": "Oksigen dihasilkan pada reaksi terang melalui fotolisis air (pemecahan H2O oleh cahaya).",
+            "id": 24
+        },
+        {
+            "q": "Bagian otak yang berfungsi sebagai pusat keseimbangan tubuh adalah...",
+            "options": [
+                "Otak Kecil (Cerebellum)",
+                "Otak Besar",
+                "Sumsum Tulang Belakang",
+                "Batang Otak"
+            ],
+            "answer": "Otak Kecil (Cerebellum)",
+            "rationale": "Cerebellum berfungsi mengatur koordinasi otot dan keseimbangan tubuh.",
+            "id": 25
+        },
+        {
+            "q": "Jamur tidak dimasukkan dalam kingdom Plantae (Tumbuhan) karena...",
+            "options": [
+                "Tidak memiliki klorofil",
+                "Tidak memiliki dinding sel",
+                "Bergerak aktif",
+                "Berkembang biak dengan biji"
+            ],
+            "answer": "Tidak memiliki klorofil",
+            "rationale": "Syarat utama Plantae adalah autotrof (punya klorofil). Jamur heterotrof (tidak bisa buat makan sendiri).",
+            "id": 26
+        },
+        {
+            "q": "Perhatikan rantai makanan: Padi -> Tikus -> Ular -> Elang. Jika populasi ular punah akibat perburuan, maka...",
+            "options": [
+                "Populasi tikus meningkat pesat",
+                "Populasi elang meningkat",
+                "Padi semakin subur",
+                "Tikus ikut punah"
+            ],
+            "answer": "Populasi tikus meningkat pesat",
+            "rationale": "Ular adalah predator tikus. Jika predator hilang, mangsa (tikus) akan berkembang biak tak terkendali.",
+            "id": 27
+        },
+        {
+            "q": "Alat optik yang menggunakan prinsip pembiasan cahaya oleh lensa cembung untuk melihat benda kecil adalah...",
+            "options": [
+                "Mikroskop",
+                "Periskop",
+                "Teleskop Pantul",
+                "Cermin Datar"
+            ],
+            "answer": "Mikroskop",
+            "rationale": "Mikroskop menggunakan kombinasi lensa cembung (okuler dan objektif) untuk memperbesar bayangan.",
+            "id": 28
+        },
+        {
+            "q": "Bahan kimia pada rokok yang bersifat adiktif (membuat kecanduan) adalah...",
+            "options": [
+                "Nikotin",
+                "Tar",
+                "Karbon Monoksida",
+                "Kafein"
+            ],
+            "answer": "Nikotin",
+            "rationale": "Nikotin adalah zat psikoaktif yang memicu ketergantungan. Tar penyebab kanker, CO racun darah.",
+            "id": 29
+        },
+        {
+            "q": "Gerhana matahari total terjadi ketika posisi bulan berada di...",
+            "options": [
+                "Antara Matahari dan Bumi",
+                "Di belakang Bumi",
+                "Tegak lurus dengan Bumi",
+                "Samping kanan Bumi"
+            ],
+            "answer": "Antara Matahari dan Bumi",
+            "rationale": "Posisi Matahari - Bulan - Bumi dalam satu garis lurus menyebabkan bayangan bulan menutupi bumi.",
+            "id": 30
+        }
+    ],
+    "IPS": [
+        {
+            "q": "Indonesia memiliki Bonus Demografi. Dampak negatif jika pemerintah gagal menyediakan lapangan kerja adalah...",
+            "options": [
+                "Pengangguran usia produktif",
+                "Kurangnya tenaga ahli",
+                "Penurunan jumlah penduduk",
+                "Naiknya ekspor"
+            ],
+            "answer": "Pengangguran usia produktif",
+            "rationale": "Banyaknya usia kerja tanpa lapangan kerja menciptakan pengangguran massal.",
+            "id": 1
+        },
+        {
+            "q": "Organisasi ekonomi yang anggotanya adalah negara-negara pengekspor minyak bumi adalah...",
+            "options": [
+                "OPEC",
+                "APEC",
+                "WTO",
+                "ASEAN"
+            ],
+            "answer": "OPEC",
+            "rationale": "OPEC (Organization of the Petroleum Exporting Countries) mengatur produksi dan harga minyak.",
+            "id": 2
+        },
+        {
+            "q": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan tua dan muda mengenai...",
+            "options": [
+                "Waktu proklamasi",
+                "Naskah proklamasi",
+                "Tempat proklamasi",
+                "Penandatangan proklamasi"
+            ],
+            "answer": "Waktu proklamasi",
+            "rationale": "Golongan muda ingin proklamasi segera (revolusioner), golongan tua ingin menunggu janji Jepang/PPKI.",
+            "id": 3
+        },
+        {
+            "q": "Benua yang dijuluki 'Benua Hitam' adalah...",
+            "options": [
+                "Afrika",
+                "Amerika",
+                "Eropa",
+                "Asia"
+            ],
+            "answer": "Afrika",
+            "rationale": "Julukan lama untuk Afrika, merujuk pada penduduk aslinya yang berkulit hitam.",
+            "id": 4
+        },
+        {
+            "q": "Batas wilayah laut Indonesia sejauh 200 mil dari garis pantai disebut...",
+            "options": [
+                "ZEE (Zona Ekonomi Eksklusif)",
+                "Laut Teritorial",
+                "Landas Kontinen",
+                "Zona Tambahan"
+            ],
+            "answer": "ZEE (Zona Ekonomi Eksklusif)",
+            "rationale": "ZEE memberikan hak eksklusif ekonomi sejauh 200 mil laut.",
+            "id": 5
+        },
+        {
+            "q": "Masuknya budaya asing yang ditiru tanpa disaring disebut...",
+            "options": [
+                "Westernisasi",
+                "Modernisasi",
+                "Globalisasi",
+                "Akulturasi"
+            ],
+            "answer": "Westernisasi",
+            "rationale": "Westernisasi adalah peniruan gaya hidup barat secara mutlak tanpa seleksi nilai.",
+            "id": 6
+        },
+        {
+            "q": "Kerajaan Islam pertama di Pulau Jawa adalah...",
+            "options": [
+                "Demak",
+                "Samudera Pasai",
+                "Mataram Islam",
+                "Banten"
+            ],
+            "answer": "Demak",
+            "rationale": "Kesultanan Demak didirikan oleh Raden Patah sebagai kerajaan Islam pertama di Jawa.",
+            "id": 7
+        },
+        {
+            "q": "Negara di ASEAN yang tidak memiliki garis pantai (Landlocked) adalah...",
+            "options": [
+                "Laos",
+                "Kamboja",
+                "Vietnam",
+                "Thailand"
+            ],
+            "answer": "Laos",
+            "rationale": "Laos dikelilingi daratan negara lain dan tidak punya akses laut langsung.",
+            "id": 8
+        },
+        {
+            "q": "Tujuan utama kedatangan bangsa Eropa ke Nusantara pada awalnya adalah...",
+            "options": [
+                "Mencari rempah-rempah",
+                "Menyebarkan agama",
+                "Mencari daerah jajahan",
+                "Wisata"
+            ],
+            "answer": "Mencari rempah-rempah",
+            "rationale": "Gold (Kekayaan/Rempah) adalah motivasi awal sebelum Gospel dan Glory.",
+            "id": 9
+        },
+        {
+            "q": "Pelaku kegiatan ekonomi yang berperan sebagai pengguna barang dan jasa disebut...",
+            "options": [
+                "Konsumen",
+                "Produsen",
+                "Distributor",
+                "Investor"
+            ],
+            "answer": "Konsumen",
+            "rationale": "Konsumen adalah pihak yang menghabiskan nilai guna barang.",
+            "id": 10
+        },
+        {
+            "q": "Indonesia memiliki Bonus Demografi. Dampak negatif jika pemerintah gagal menyediakan lapangan kerja adalah...",
+            "options": [
+                "Pengangguran usia produktif",
+                "Kurangnya tenaga ahli",
+                "Penurunan jumlah penduduk",
+                "Naiknya ekspor"
+            ],
+            "answer": "Pengangguran usia produktif",
+            "rationale": "Banyaknya usia kerja tanpa lapangan kerja menciptakan pengangguran massal.",
+            "id": 11
+        },
+        {
+            "q": "Organisasi ekonomi yang anggotanya adalah negara-negara pengekspor minyak bumi adalah...",
+            "options": [
+                "OPEC",
+                "APEC",
+                "WTO",
+                "ASEAN"
+            ],
+            "answer": "OPEC",
+            "rationale": "OPEC (Organization of the Petroleum Exporting Countries) mengatur produksi dan harga minyak.",
+            "id": 12
+        },
+        {
+            "q": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan tua dan muda mengenai...",
+            "options": [
+                "Waktu proklamasi",
+                "Naskah proklamasi",
+                "Tempat proklamasi",
+                "Penandatangan proklamasi"
+            ],
+            "answer": "Waktu proklamasi",
+            "rationale": "Golongan muda ingin proklamasi segera (revolusioner), golongan tua ingin menunggu janji Jepang/PPKI.",
+            "id": 13
+        },
+        {
+            "q": "Benua yang dijuluki 'Benua Hitam' adalah...",
+            "options": [
+                "Afrika",
+                "Amerika",
+                "Eropa",
+                "Asia"
+            ],
+            "answer": "Afrika",
+            "rationale": "Julukan lama untuk Afrika, merujuk pada penduduk aslinya yang berkulit hitam.",
+            "id": 14
+        },
+        {
+            "q": "Batas wilayah laut Indonesia sejauh 200 mil dari garis pantai disebut...",
+            "options": [
+                "ZEE (Zona Ekonomi Eksklusif)",
+                "Laut Teritorial",
+                "Landas Kontinen",
+                "Zona Tambahan"
+            ],
+            "answer": "ZEE (Zona Ekonomi Eksklusif)",
+            "rationale": "ZEE memberikan hak eksklusif ekonomi sejauh 200 mil laut.",
+            "id": 15
+        },
+        {
+            "q": "Masuknya budaya asing yang ditiru tanpa disaring disebut...",
+            "options": [
+                "Westernisasi",
+                "Modernisasi",
+                "Globalisasi",
+                "Akulturasi"
+            ],
+            "answer": "Westernisasi",
+            "rationale": "Westernisasi adalah peniruan gaya hidup barat secara mutlak tanpa seleksi nilai.",
+            "id": 16
+        },
+        {
+            "q": "Kerajaan Islam pertama di Pulau Jawa adalah...",
+            "options": [
+                "Demak",
+                "Samudera Pasai",
+                "Mataram Islam",
+                "Banten"
+            ],
+            "answer": "Demak",
+            "rationale": "Kesultanan Demak didirikan oleh Raden Patah sebagai kerajaan Islam pertama di Jawa.",
+            "id": 17
+        },
+        {
+            "q": "Negara di ASEAN yang tidak memiliki garis pantai (Landlocked) adalah...",
+            "options": [
+                "Laos",
+                "Kamboja",
+                "Vietnam",
+                "Thailand"
+            ],
+            "answer": "Laos",
+            "rationale": "Laos dikelilingi daratan negara lain dan tidak punya akses laut langsung.",
+            "id": 18
+        },
+        {
+            "q": "Tujuan utama kedatangan bangsa Eropa ke Nusantara pada awalnya adalah...",
+            "options": [
+                "Mencari rempah-rempah",
+                "Menyebarkan agama",
+                "Mencari daerah jajahan",
+                "Wisata"
+            ],
+            "answer": "Mencari rempah-rempah",
+            "rationale": "Gold (Kekayaan/Rempah) adalah motivasi awal sebelum Gospel dan Glory.",
+            "id": 19
+        },
+        {
+            "q": "Pelaku kegiatan ekonomi yang berperan sebagai pengguna barang dan jasa disebut...",
+            "options": [
+                "Konsumen",
+                "Produsen",
+                "Distributor",
+                "Investor"
+            ],
+            "answer": "Konsumen",
+            "rationale": "Konsumen adalah pihak yang menghabiskan nilai guna barang.",
+            "id": 20
+        },
+        {
+            "q": "Indonesia memiliki Bonus Demografi. Dampak negatif jika pemerintah gagal menyediakan lapangan kerja adalah...",
+            "options": [
+                "Pengangguran usia produktif",
+                "Kurangnya tenaga ahli",
+                "Penurunan jumlah penduduk",
+                "Naiknya ekspor"
+            ],
+            "answer": "Pengangguran usia produktif",
+            "rationale": "Banyaknya usia kerja tanpa lapangan kerja menciptakan pengangguran massal.",
+            "id": 21
+        },
+        {
+            "q": "Organisasi ekonomi yang anggotanya adalah negara-negara pengekspor minyak bumi adalah...",
+            "options": [
+                "OPEC",
+                "APEC",
+                "WTO",
+                "ASEAN"
+            ],
+            "answer": "OPEC",
+            "rationale": "OPEC (Organization of the Petroleum Exporting Countries) mengatur produksi dan harga minyak.",
+            "id": 22
+        },
+        {
+            "q": "Peristiwa Rengasdengklok terjadi karena adanya perbedaan pendapat antara golongan tua dan muda mengenai...",
+            "options": [
+                "Waktu proklamasi",
+                "Naskah proklamasi",
+                "Tempat proklamasi",
+                "Penandatangan proklamasi"
+            ],
+            "answer": "Waktu proklamasi",
+            "rationale": "Golongan muda ingin proklamasi segera (revolusioner), golongan tua ingin menunggu janji Jepang/PPKI.",
+            "id": 23
+        },
+        {
+            "q": "Benua yang dijuluki 'Benua Hitam' adalah...",
+            "options": [
+                "Afrika",
+                "Amerika",
+                "Eropa",
+                "Asia"
+            ],
+            "answer": "Afrika",
+            "rationale": "Julukan lama untuk Afrika, merujuk pada penduduk aslinya yang berkulit hitam.",
+            "id": 24
+        },
+        {
+            "q": "Batas wilayah laut Indonesia sejauh 200 mil dari garis pantai disebut...",
+            "options": [
+                "ZEE (Zona Ekonomi Eksklusif)",
+                "Laut Teritorial",
+                "Landas Kontinen",
+                "Zona Tambahan"
+            ],
+            "answer": "ZEE (Zona Ekonomi Eksklusif)",
+            "rationale": "ZEE memberikan hak eksklusif ekonomi sejauh 200 mil laut.",
+            "id": 25
+        },
+        {
+            "q": "Masuknya budaya asing yang ditiru tanpa disaring disebut...",
+            "options": [
+                "Westernisasi",
+                "Modernisasi",
+                "Globalisasi",
+                "Akulturasi"
+            ],
+            "answer": "Westernisasi",
+            "rationale": "Westernisasi adalah peniruan gaya hidup barat secara mutlak tanpa seleksi nilai.",
+            "id": 26
+        },
+        {
+            "q": "Kerajaan Islam pertama di Pulau Jawa adalah...",
+            "options": [
+                "Demak",
+                "Samudera Pasai",
+                "Mataram Islam",
+                "Banten"
+            ],
+            "answer": "Demak",
+            "rationale": "Kesultanan Demak didirikan oleh Raden Patah sebagai kerajaan Islam pertama di Jawa.",
+            "id": 27
+        },
+        {
+            "q": "Negara di ASEAN yang tidak memiliki garis pantai (Landlocked) adalah...",
+            "options": [
+                "Laos",
+                "Kamboja",
+                "Vietnam",
+                "Thailand"
+            ],
+            "answer": "Laos",
+            "rationale": "Laos dikelilingi daratan negara lain dan tidak punya akses laut langsung.",
+            "id": 28
+        },
+        {
+            "q": "Tujuan utama kedatangan bangsa Eropa ke Nusantara pada awalnya adalah...",
+            "options": [
+                "Mencari rempah-rempah",
+                "Menyebarkan agama",
+                "Mencari daerah jajahan",
+                "Wisata"
+            ],
+            "answer": "Mencari rempah-rempah",
+            "rationale": "Gold (Kekayaan/Rempah) adalah motivasi awal sebelum Gospel dan Glory.",
+            "id": 29
+        },
+        {
+            "q": "Pelaku kegiatan ekonomi yang berperan sebagai pengguna barang dan jasa disebut...",
+            "options": [
+                "Konsumen",
+                "Produsen",
+                "Distributor",
+                "Investor"
+            ],
+            "answer": "Konsumen",
+            "rationale": "Konsumen adalah pihak yang menghabiskan nilai guna barang.",
+            "id": 30
+        }
+    ],
+    "Bahasa Inggris": [
+        {
+            "q": "Situation: The floor is wet. Warning sign: 'CAUTION: ___'",
+            "options": [
+                "Slippery Floor",
+                "High Voltage",
+                "Flammable",
+                "Do Not Enter"
+            ],
+            "answer": "Slippery Floor",
+            "rationale": "Wet floor causes slippery surface. The correct sign is Slippery Floor.",
+            "id": 1
+        },
+        {
+            "q": "She ___ (wait) for the bus when the rain started.",
+            "options": [
+                "Was waiting",
+                "Waited",
+                "Is waiting",
+                "Has waited"
+            ],
+            "answer": "Was waiting",
+            "rationale": "Past Continuous Tense (Was V-ing) digunakan untuk kejadian yang sedang berlangsung saat kejadian lain (rain started) terjadi.",
+            "id": 2
+        },
+        {
+            "q": "Antonym of 'Generous' is...",
+            "options": [
+                "Stingy",
+                "Kind",
+                "Rich",
+                "Humble"
+            ],
+            "answer": "Stingy",
+            "rationale": "Generous = Dermawan. Stingy = Pelit.",
+            "id": 3
+        },
+        {
+            "q": "'I am over the moon!' This idiom means...",
+            "options": [
+                "Very happy",
+                "Sad",
+                "Confused",
+                "Angry"
+            ],
+            "answer": "Very happy",
+            "rationale": "'Over the moon' adalah idiom untuk perasaan sangat senang/bahagia.",
+            "id": 4
+        },
+        {
+            "q": "Passive voice of: 'My mother cooks rice.'",
+            "options": [
+                "Rice is cooked by my mother",
+                "Rice was cooked by my mother",
+                "Rice is cooking by my mother",
+                "Rice cooked by my mother"
+            ],
+            "answer": "Rice is cooked by my mother",
+            "rationale": "Present Tense Passive: Object + is/am/are + V3 + by Subject.",
+            "id": 5
+        },
+        {
+            "q": "If I ___ (be) a bird, I would fly around the world.",
+            "options": [
+                "Were",
+                "Was",
+                "Am",
+                "Are"
+            ],
+            "answer": "Were",
+            "rationale": "Conditional Sentence Type 2 (Pengandaian) selalu menggunakan 'Were' untuk semua subjek.",
+            "id": 6
+        },
+        {
+            "q": "Arrange: interesting - is - book - very - this",
+            "options": [
+                "This book is very interesting",
+                "This is very interesting book",
+                "Book this is interesting very",
+                "Very interesting is this book"
+            ],
+            "answer": "This book is very interesting",
+            "rationale": "Subject (This book) + To Be (is) + Adverb (very) + Adjective (interesting).",
+            "id": 7
+        },
+        {
+            "q": "Which one is an uncountable noun?",
+            "options": [
+                "Water",
+                "Apple",
+                "Book",
+                "Car"
+            ],
+            "answer": "Water",
+            "rationale": "Water (Air) tidak bisa dihitung satuan (satu air, dua air), jadi Uncountable.",
+            "id": 8
+        },
+        {
+            "q": "He is the ___ student in the class.",
+            "options": [
+                "Smartest",
+                "Smarter",
+                "Smart",
+                "More smart"
+            ],
+            "answer": "Smartest",
+            "rationale": "Superlative (Paling) ditandai dengan 'The' + akhiran -est.",
+            "id": 9
+        },
+        {
+            "q": "What is the text purpose of a 'Procedure Text'?",
+            "options": [
+                "To describe how to make something",
+                "To amuse the reader",
+                "To report news",
+                "To describe a place"
+            ],
+            "answer": "To describe how to make something",
+            "rationale": "Procedure text bertujuan menjelaskan langkah-langkah membuat atau melakukan sesuatu.",
+            "id": 10
+        },
+        {
+            "q": "Situation: The floor is wet. Warning sign: 'CAUTION: ___'",
+            "options": [
+                "Slippery Floor",
+                "High Voltage",
+                "Flammable",
+                "Do Not Enter"
+            ],
+            "answer": "Slippery Floor",
+            "rationale": "Wet floor causes slippery surface. The correct sign is Slippery Floor.",
+            "id": 11
+        },
+        {
+            "q": "She ___ (wait) for the bus when the rain started.",
+            "options": [
+                "Was waiting",
+                "Waited",
+                "Is waiting",
+                "Has waited"
+            ],
+            "answer": "Was waiting",
+            "rationale": "Past Continuous Tense (Was V-ing) digunakan untuk kejadian yang sedang berlangsung saat kejadian lain (rain started) terjadi.",
+            "id": 12
+        },
+        {
+            "q": "Antonym of 'Generous' is...",
+            "options": [
+                "Stingy",
+                "Kind",
+                "Rich",
+                "Humble"
+            ],
+            "answer": "Stingy",
+            "rationale": "Generous = Dermawan. Stingy = Pelit.",
+            "id": 13
+        },
+        {
+            "q": "'I am over the moon!' This idiom means...",
+            "options": [
+                "Very happy",
+                "Sad",
+                "Confused",
+                "Angry"
+            ],
+            "answer": "Very happy",
+            "rationale": "'Over the moon' adalah idiom untuk perasaan sangat senang/bahagia.",
+            "id": 14
+        },
+        {
+            "q": "Passive voice of: 'My mother cooks rice.'",
+            "options": [
+                "Rice is cooked by my mother",
+                "Rice was cooked by my mother",
+                "Rice is cooking by my mother",
+                "Rice cooked by my mother"
+            ],
+            "answer": "Rice is cooked by my mother",
+            "rationale": "Present Tense Passive: Object + is/am/are + V3 + by Subject.",
+            "id": 15
+        },
+        {
+            "q": "If I ___ (be) a bird, I would fly around the world.",
+            "options": [
+                "Were",
+                "Was",
+                "Am",
+                "Are"
+            ],
+            "answer": "Were",
+            "rationale": "Conditional Sentence Type 2 (Pengandaian) selalu menggunakan 'Were' untuk semua subjek.",
+            "id": 16
+        },
+        {
+            "q": "Arrange: interesting - is - book - very - this",
+            "options": [
+                "This book is very interesting",
+                "This is very interesting book",
+                "Book this is interesting very",
+                "Very interesting is this book"
+            ],
+            "answer": "This book is very interesting",
+            "rationale": "Subject (This book) + To Be (is) + Adverb (very) + Adjective (interesting).",
+            "id": 17
+        },
+        {
+            "q": "Which one is an uncountable noun?",
+            "options": [
+                "Water",
+                "Apple",
+                "Book",
+                "Car"
+            ],
+            "answer": "Water",
+            "rationale": "Water (Air) tidak bisa dihitung satuan (satu air, dua air), jadi Uncountable.",
+            "id": 18
+        },
+        {
+            "q": "He is the ___ student in the class.",
+            "options": [
+                "Smartest",
+                "Smarter",
+                "Smart",
+                "More smart"
+            ],
+            "answer": "Smartest",
+            "rationale": "Superlative (Paling) ditandai dengan 'The' + akhiran -est.",
+            "id": 19
+        },
+        {
+            "q": "What is the text purpose of a 'Procedure Text'?",
+            "options": [
+                "To describe how to make something",
+                "To amuse the reader",
+                "To report news",
+                "To describe a place"
+            ],
+            "answer": "To describe how to make something",
+            "rationale": "Procedure text bertujuan menjelaskan langkah-langkah membuat atau melakukan sesuatu.",
+            "id": 20
+        },
+        {
+            "q": "Situation: The floor is wet. Warning sign: 'CAUTION: ___'",
+            "options": [
+                "Slippery Floor",
+                "High Voltage",
+                "Flammable",
+                "Do Not Enter"
+            ],
+            "answer": "Slippery Floor",
+            "rationale": "Wet floor causes slippery surface. The correct sign is Slippery Floor.",
+            "id": 21
+        },
+        {
+            "q": "She ___ (wait) for the bus when the rain started.",
+            "options": [
+                "Was waiting",
+                "Waited",
+                "Is waiting",
+                "Has waited"
+            ],
+            "answer": "Was waiting",
+            "rationale": "Past Continuous Tense (Was V-ing) digunakan untuk kejadian yang sedang berlangsung saat kejadian lain (rain started) terjadi.",
+            "id": 22
+        },
+        {
+            "q": "Antonym of 'Generous' is...",
+            "options": [
+                "Stingy",
+                "Kind",
+                "Rich",
+                "Humble"
+            ],
+            "answer": "Stingy",
+            "rationale": "Generous = Dermawan. Stingy = Pelit.",
+            "id": 23
+        },
+        {
+            "q": "'I am over the moon!' This idiom means...",
+            "options": [
+                "Very happy",
+                "Sad",
+                "Confused",
+                "Angry"
+            ],
+            "answer": "Very happy",
+            "rationale": "'Over the moon' adalah idiom untuk perasaan sangat senang/bahagia.",
+            "id": 24
+        },
+        {
+            "q": "Passive voice of: 'My mother cooks rice.'",
+            "options": [
+                "Rice is cooked by my mother",
+                "Rice was cooked by my mother",
+                "Rice is cooking by my mother",
+                "Rice cooked by my mother"
+            ],
+            "answer": "Rice is cooked by my mother",
+            "rationale": "Present Tense Passive: Object + is/am/are + V3 + by Subject.",
+            "id": 25
+        },
+        {
+            "q": "If I ___ (be) a bird, I would fly around the world.",
+            "options": [
+                "Were",
+                "Was",
+                "Am",
+                "Are"
+            ],
+            "answer": "Were",
+            "rationale": "Conditional Sentence Type 2 (Pengandaian) selalu menggunakan 'Were' untuk semua subjek.",
+            "id": 26
+        },
+        {
+            "q": "Arrange: interesting - is - book - very - this",
+            "options": [
+                "This book is very interesting",
+                "This is very interesting book",
+                "Book this is interesting very",
+                "Very interesting is this book"
+            ],
+            "answer": "This book is very interesting",
+            "rationale": "Subject (This book) + To Be (is) + Adverb (very) + Adjective (interesting).",
+            "id": 27
+        },
+        {
+            "q": "Which one is an uncountable noun?",
+            "options": [
+                "Water",
+                "Apple",
+                "Book",
+                "Car"
+            ],
+            "answer": "Water",
+            "rationale": "Water (Air) tidak bisa dihitung satuan (satu air, dua air), jadi Uncountable.",
+            "id": 28
+        },
+        {
+            "q": "He is the ___ student in the class.",
+            "options": [
+                "Smartest",
+                "Smarter",
+                "Smart",
+                "More smart"
+            ],
+            "answer": "Smartest",
+            "rationale": "Superlative (Paling) ditandai dengan 'The' + akhiran -est.",
+            "id": 29
+        },
+        {
+            "q": "What is the text purpose of a 'Procedure Text'?",
+            "options": [
+                "To describe how to make something",
+                "To amuse the reader",
+                "To report news",
+                "To describe a place"
+            ],
+            "answer": "To describe how to make something",
+            "rationale": "Procedure text bertujuan menjelaskan langkah-langkah membuat atau melakukan sesuatu.",
+            "id": 30
+        }
+    ],
+    "Bahasa Indonesia": [
+        {
+            "q": "Ide pokok paragraf biasanya terdapat di kalimat...",
+            "options": [
+                "Utama",
+                "Penjelas",
+                "Akhir",
+                "Tengah"
+            ],
+            "answer": "Utama",
+            "rationale": "Ide pokok selalu tertuang dalam kalimat utama.",
+            "id": 1
+        },
+        {
+            "q": "Majas yang benda mati seolah hidup disebut...",
+            "options": [
+                "Personifikasi",
+                "Metafora",
+                "Hiperbola",
+                "Litotes"
+            ],
+            "answer": "Personifikasi",
+            "rationale": "Contoh: 'Pena menari di atas kertas'.",
+            "id": 2
+        },
+        {
+            "q": "Sinonim 'Ekskavasi' adalah...",
+            "options": [
+                "Penggalian",
+                "Penimbunan",
+                "Pembangunan",
+                "Perencanaan"
+            ],
+            "answer": "Penggalian",
+            "rationale": "Ekskavasi dalam arkeologi berarti penggalian.",
+            "id": 3
+        },
+        {
+            "q": "Penulisan tempat tanggal surat yang benar adalah...",
+            "options": [
+                "Jakarta, 12 Januari 2024",
+                "Jakarta. 12 Januari 2024",
+                "jakarta, 12 januari 2024",
+                "Jakarta: 12 Januari 2024"
+            ],
+            "answer": "Jakarta, 12 Januari 2024",
+            "rationale": "Nama kota diawali kapital, dipisah koma, lalu tanggal.",
+            "id": 4
+        },
+        {
+            "q": "Tokoh jahat dalam drama disebut...",
+            "options": [
+                "Antagonis",
+                "Protagonis",
+                "Tritagonis",
+                "Figuran"
+            ],
+            "answer": "Antagonis",
+            "rationale": "Antagonis adalah penentang tokoh utama (jahat).",
+            "id": 5
+        },
+        {
+            "q": "Imbuhan 'me-' pada kata 'sapu' menjadi...",
+            "options": [
+                "Menyapu",
+                "Mensapu",
+                "Mesapu",
+                "Menapu"
+            ],
+            "answer": "Menyapu",
+            "rationale": "Kata dasar diawali 'S' luluh jika bertemu awalan 'me-'.",
+            "id": 6
+        },
+        {
+            "q": "Kalimat yang mengandung fakta adalah...",
+            "options": [
+                "Matahari terbit di timur",
+                "Gadis itu sangat cantik",
+                "Makanan ini enak sekali",
+                "Mungkin besok hujan"
+            ],
+            "answer": "Matahari terbit di timur",
+            "rationale": "Fakta adalah kebenaran umum yang bisa dibuktikan, bukan opini.",
+            "id": 7
+        },
+        {
+            "q": "Cerita rekaan tentang binatang yang bisa bicara disebut...",
+            "options": [
+                "Fabel",
+                "Legenda",
+                "Mite",
+                "Sage"
+            ],
+            "answer": "Fabel",
+            "rationale": "Fabel adalah dongeng tokoh binatang (Kancil, Buaya, dll).",
+            "id": 8
+        },
+        {
+            "q": "Kata baku dari 'Apotik' adalah...",
+            "options": [
+                "Apotek",
+                "Apotik",
+                "Aphotek",
+                "Aphotik"
+            ],
+            "answer": "Apotek",
+            "rationale": "Sesuai KBBI, yang benar adalah Apotek (Apoteker), bukan Apotik.",
+            "id": 9
+        },
+        {
+            "q": "Makna ungkapan 'Kutu Buku' adalah...",
+            "options": [
+                "Gemar membaca",
+                "Penyakit kulit",
+                "Banyak kutu",
+                "Penjual buku"
+            ],
+            "answer": "Gemar membaca",
+            "rationale": "Kutu buku adalah kiasan untuk orang yang sangat suka membaca.",
+            "id": 10
+        },
+        {
+            "q": "Ide pokok paragraf biasanya terdapat di kalimat...",
+            "options": [
+                "Utama",
+                "Penjelas",
+                "Akhir",
+                "Tengah"
+            ],
+            "answer": "Utama",
+            "rationale": "Ide pokok selalu tertuang dalam kalimat utama.",
+            "id": 11
+        },
+        {
+            "q": "Majas yang benda mati seolah hidup disebut...",
+            "options": [
+                "Personifikasi",
+                "Metafora",
+                "Hiperbola",
+                "Litotes"
+            ],
+            "answer": "Personifikasi",
+            "rationale": "Contoh: 'Pena menari di atas kertas'.",
+            "id": 12
+        },
+        {
+            "q": "Sinonim 'Ekskavasi' adalah...",
+            "options": [
+                "Penggalian",
+                "Penimbunan",
+                "Pembangunan",
+                "Perencanaan"
+            ],
+            "answer": "Penggalian",
+            "rationale": "Ekskavasi dalam arkeologi berarti penggalian.",
+            "id": 13
+        },
+        {
+            "q": "Penulisan tempat tanggal surat yang benar adalah...",
+            "options": [
+                "Jakarta, 12 Januari 2024",
+                "Jakarta. 12 Januari 2024",
+                "jakarta, 12 januari 2024",
+                "Jakarta: 12 Januari 2024"
+            ],
+            "answer": "Jakarta, 12 Januari 2024",
+            "rationale": "Nama kota diawali kapital, dipisah koma, lalu tanggal.",
+            "id": 14
+        },
+        {
+            "q": "Tokoh jahat dalam drama disebut...",
+            "options": [
+                "Antagonis",
+                "Protagonis",
+                "Tritagonis",
+                "Figuran"
+            ],
+            "answer": "Antagonis",
+            "rationale": "Antagonis adalah penentang tokoh utama (jahat).",
+            "id": 15
+        },
+        {
+            "q": "Imbuhan 'me-' pada kata 'sapu' menjadi...",
+            "options": [
+                "Menyapu",
+                "Mensapu",
+                "Mesapu",
+                "Menapu"
+            ],
+            "answer": "Menyapu",
+            "rationale": "Kata dasar diawali 'S' luluh jika bertemu awalan 'me-'.",
+            "id": 16
+        },
+        {
+            "q": "Kalimat yang mengandung fakta adalah...",
+            "options": [
+                "Matahari terbit di timur",
+                "Gadis itu sangat cantik",
+                "Makanan ini enak sekali",
+                "Mungkin besok hujan"
+            ],
+            "answer": "Matahari terbit di timur",
+            "rationale": "Fakta adalah kebenaran umum yang bisa dibuktikan, bukan opini.",
+            "id": 17
+        },
+        {
+            "q": "Cerita rekaan tentang binatang yang bisa bicara disebut...",
+            "options": [
+                "Fabel",
+                "Legenda",
+                "Mite",
+                "Sage"
+            ],
+            "answer": "Fabel",
+            "rationale": "Fabel adalah dongeng tokoh binatang (Kancil, Buaya, dll).",
+            "id": 18
+        },
+        {
+            "q": "Kata baku dari 'Apotik' adalah...",
+            "options": [
+                "Apotek",
+                "Apotik",
+                "Aphotek",
+                "Aphotik"
+            ],
+            "answer": "Apotek",
+            "rationale": "Sesuai KBBI, yang benar adalah Apotek (Apoteker), bukan Apotik.",
+            "id": 19
+        },
+        {
+            "q": "Makna ungkapan 'Kutu Buku' adalah...",
+            "options": [
+                "Gemar membaca",
+                "Penyakit kulit",
+                "Banyak kutu",
+                "Penjual buku"
+            ],
+            "answer": "Gemar membaca",
+            "rationale": "Kutu buku adalah kiasan untuk orang yang sangat suka membaca.",
+            "id": 20
+        },
+        {
+            "q": "Ide pokok paragraf biasanya terdapat di kalimat...",
+            "options": [
+                "Utama",
+                "Penjelas",
+                "Akhir",
+                "Tengah"
+            ],
+            "answer": "Utama",
+            "rationale": "Ide pokok selalu tertuang dalam kalimat utama.",
+            "id": 21
+        },
+        {
+            "q": "Majas yang benda mati seolah hidup disebut...",
+            "options": [
+                "Personifikasi",
+                "Metafora",
+                "Hiperbola",
+                "Litotes"
+            ],
+            "answer": "Personifikasi",
+            "rationale": "Contoh: 'Pena menari di atas kertas'.",
+            "id": 22
+        },
+        {
+            "q": "Sinonim 'Ekskavasi' adalah...",
+            "options": [
+                "Penggalian",
+                "Penimbunan",
+                "Pembangunan",
+                "Perencanaan"
+            ],
+            "answer": "Penggalian",
+            "rationale": "Ekskavasi dalam arkeologi berarti penggalian.",
+            "id": 23
+        },
+        {
+            "q": "Penulisan tempat tanggal surat yang benar adalah...",
+            "options": [
+                "Jakarta, 12 Januari 2024",
+                "Jakarta. 12 Januari 2024",
+                "jakarta, 12 januari 2024",
+                "Jakarta: 12 Januari 2024"
+            ],
+            "answer": "Jakarta, 12 Januari 2024",
+            "rationale": "Nama kota diawali kapital, dipisah koma, lalu tanggal.",
+            "id": 24
+        },
+        {
+            "q": "Tokoh jahat dalam drama disebut...",
+            "options": [
+                "Antagonis",
+                "Protagonis",
+                "Tritagonis",
+                "Figuran"
+            ],
+            "answer": "Antagonis",
+            "rationale": "Antagonis adalah penentang tokoh utama (jahat).",
+            "id": 25
+        },
+        {
+            "q": "Imbuhan 'me-' pada kata 'sapu' menjadi...",
+            "options": [
+                "Menyapu",
+                "Mensapu",
+                "Mesapu",
+                "Menapu"
+            ],
+            "answer": "Menyapu",
+            "rationale": "Kata dasar diawali 'S' luluh jika bertemu awalan 'me-'.",
+            "id": 26
+        },
+        {
+            "q": "Kalimat yang mengandung fakta adalah...",
+            "options": [
+                "Matahari terbit di timur",
+                "Gadis itu sangat cantik",
+                "Makanan ini enak sekali",
+                "Mungkin besok hujan"
+            ],
+            "answer": "Matahari terbit di timur",
+            "rationale": "Fakta adalah kebenaran umum yang bisa dibuktikan, bukan opini.",
+            "id": 27
+        },
+        {
+            "q": "Cerita rekaan tentang binatang yang bisa bicara disebut...",
+            "options": [
+                "Fabel",
+                "Legenda",
+                "Mite",
+                "Sage"
+            ],
+            "answer": "Fabel",
+            "rationale": "Fabel adalah dongeng tokoh binatang (Kancil, Buaya, dll).",
+            "id": 28
+        },
+        {
+            "q": "Kata baku dari 'Apotik' adalah...",
+            "options": [
+                "Apotek",
+                "Apotik",
+                "Aphotek",
+                "Aphotik"
+            ],
+            "answer": "Apotek",
+            "rationale": "Sesuai KBBI, yang benar adalah Apotek (Apoteker), bukan Apotik.",
+            "id": 29
+        },
+        {
+            "q": "Makna ungkapan 'Kutu Buku' adalah...",
+            "options": [
+                "Gemar membaca",
+                "Penyakit kulit",
+                "Banyak kutu",
+                "Penjual buku"
+            ],
+            "answer": "Gemar membaca",
+            "rationale": "Kutu buku adalah kiasan untuk orang yang sangat suka membaca.",
+            "id": 30
+        }
+    ]
+}

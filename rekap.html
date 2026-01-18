@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Rekap Nilai Siswa</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        /* Style khusus agar tabel muat di kotak */
+        .glass-box { max-width: 800px !important; } 
+    </style>
+</head>
+<body>
+    <div class="glass-box">
+        <h1>📋 REKAP NILAI SISWA</h1>
+        <h2 class="guru-title">Dashboard Mr. Heru</h2>
+        
+        {% if data %}
+        <div class="table-container">
+            <table class="rekap-table">
+                <thead>
+                    <tr>
+                        <th>Waktu</th>
+                        <th>Nickname</th>
+                        <th>Mapel</th>
+                        <th>Skor</th>
+                        <th>Badge</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for siswa in data %}
+                    <tr>
+                        <td style="font-size: 0.9em; color: #777;">{{ siswa.waktu }}</td>
+                        <td style="font-weight: bold;">{{ siswa.nama }}</td>
+                        <td>{{ siswa.mapel }}</td>
+                        <td>{{ siswa.skor }} ({{ siswa.persen }})</td>
+                        <td style="font-size: 0.9em;">{{ siswa.badge }}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+            <p>Belum ada data siswa yang masuk hari ini.</p>
+        {% endif %}
+
+        <br>
+        <a href="/" class="btn-start" style="padding: 10px 20px; font-size: 0.9em;">← Kembali ke Halaman Depan</a>
+    </div>
+</body>
+</html>

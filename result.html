@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hasil Akhir</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="glass-box">
+        <h2 style="color: var(--accent-blue);">HASIL AKHIR</h2>
+        <p style="font-weight: bold; font-size: 1.2em;">Player: {{ nama }}</p>
+
+        <div class="score-circle">{{ percent }}%</div>
+        
+        <div class="badge-text">{{ badge }}</div>
+        <p style="margin-bottom: 30px; color: var(--text-dark);">{{ pesan }}</p>
+
+        <div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
+            <div>
+                <h3 style="color: var(--success-color); margin:0; font-size: 2em;">{{ score }}</h3>
+                <small>Benar</small>
+            </div>
+            <div>
+                <h3 style="margin:0; color: var(--text-dark); font-size: 2em;">{{ total }}</h3>
+                <small>Total Soal</small>
+            </div>
+        </div>
+
+        <a href="/menu" class="btn-start">Main Lagi 🎮</a>
+    </div>
+</body>
+</html>
